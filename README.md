@@ -7,6 +7,6 @@ Last one standing wins!
 
 ## Setup Steps
 
-- fork and git clone the repository in your terminal
+- fork and git clone the repository into your terminal
 - cd into the new folder
 - type `ruby main.rb` to start!
