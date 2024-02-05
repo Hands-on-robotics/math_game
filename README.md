@@ -2,8 +2,8 @@
 
 ## A two-player math question battle!
 
-  Each player has 3 lives to start and if you answer incorrectly you'll lose a life!
-  Last one standing wins!
+Each player has 3 lives to start and if you answer incorrectly you'll lose a life!  
+Last one standing wins!
 
 ## Setup Steps
 
